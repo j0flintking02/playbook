@@ -1,4 +1,4 @@
-### What is Engineering at Mookh?
+### What is Engineering at RETI?
 ***
 The **Technology Department** is the engine of scale at Mookh with a strategic focus on capturing data, putting things into systems and increasing productivity.
 
